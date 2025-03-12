@@ -86,18 +86,47 @@
             zoom: 16, // Adjust the zoom level
             maxBounds: v1 // Restrict the map to the campus bounds
         });
-        map.addSource('state-data', {
-            type: 'vector',
-            url: 'mapbox://dll3182.cm83or3go089n1pmrdvacqiaw-5z0x5'
-        });
 
-        map.addLayer({
-            id: 'states',
-            source: 'state-data',
-            type: 'symbol',
-            layout: {
-                'text-field': ['get', 'name']
-            }
+        map.on('load', () => {
+            // Add an image to use as a custom marker
+            map.loadImage(
+                'https://docs.mapbox.com/mapbox-gl-js/assets/custom_marker.png',
+                (error, image) => {
+                    if (error) throw error;
+                    map.addImage('custom-marker', image);
+
+                    // Load the GeoJSON file using fetch
+                    fetch('accessiblitypoints.geojson')
+                        .then(response => response.json())
+                        .then(data => {
+                            // Add the GeoJSON source
+                            map.addSource('points', {
+                                'type': 'geojson',
+                                'data': data
+                            });
+
+                            // Add a symbol layer
+                            map.addLayer({
+                                'id': 'points',
+                                'type': 'symbol',
+                                'source': 'points',
+                                'layout': {
+                                    'icon-allow-overlap': true,
+                                    'icon-image': 'custom-marker',
+                                    // get the title name from the source's "title" property
+                                    //'text-field': ['get', 'title'],
+                                    'text-font': [
+                                        'Open Sans Semibold',
+                                        'Arial Unicode MS Bold'
+                                    ],
+                                    'text-offset': [0, 1.25],
+                                    'text-anchor': 'top'
+                                }
+                            });
+                        })
+                        .catch(error => console.error('Error loading GeoJSON:', error));
+                }
+            );
         });
     </script>
 </body>
