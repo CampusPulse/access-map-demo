@@ -1,936 +1,757 @@
 {
-    "features": [
-      {
-        "type": "Feature",
-        "properties": {
-          "id": 4043,
-          "name": "Accessible Entrance - Lowenthal Hall",
-          "mdo_id": "1178",
-          "descShort": "East/main accessible entrance to 1st floor of LOW/012",
-          "geometry_id": "4043",
-          "images": []
-        },
-        "geometry": {
-          "coordinates": [
-            -77.67684,
-            43.082977
-          ],
-          "type": "Point"
-        },
-        "id": "02eaa87d832995f670c9ee7c846e6922"
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          -77.67379,
+          43.08413
+        ],
+        "type": "Point"
       },
-      {
-        "type": "Feature",
-        "properties": {
-          "id": 4035,
-          "name": "Accessible Entrance - Wallace Center",
-          "mdo_id": "1175",
-          "descShort": "South (from Gleason Circle) to A-level of WAL/005",
-          "geometry_id": "4035",
-          "images": []
-        },
-        "geometry": {
-          "coordinates": [
-            -77.6764,
-            43.083668
-          ],
-          "type": "Point"
-        },
-        "id": "0304e3f6bdbd96b080833555141099f7"
+      "properties": {
+        "building_name": "Campus Center",
+        "id": 7,
+        "room": 980,
+        "status": 3
       },
-      {
-        "type": "Feature",
-        "properties": {
-          "id": 4151,
-          "name": "Accessible Entrance - Cantina & Grille",
-          "mdo_id": "1212",
-          "descShort": "South/main door to Cantina & Grille (facing Global Village Plaza)",
-          "geometry_id": "4151",
-          "images": []
-        },
-        "geometry": {
-          "coordinates": [
-            -77.68075,
-            43.083073
-          ],
-          "type": "Point"
-        },
-        "id": "03a08976c58133214e1983ef0b0d09b4"
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -77.66759,
+          43.08497
+        ],
+        "type": "Point"
       },
-      {
-        "type": "Feature",
-        "properties": {
-          "id": 4147,
-          "name": "Accessible Entrance - Golisano Hall",
-          "mdo_id": "1211",
-          "descShort": "South door (use ramp from USC) to 1st floor of GOL/070",
-          "geometry_id": "4147",
-          "images": []
-        },
-        "geometry": {
-          "coordinates": [
-            -77.67968,
-            43.083702
-          ],
-          "type": "Point"
-        },
-        "id": "03cc76fe801d1050a4053e15cd2e886c"
+      "properties": {
+        "building_name": "Fredericka Douglass Sprague Perry Hall",
+        "id": 9,
+        "room": 980,
+        "status": 2
       },
-      {
-        "type": "Feature",
-        "properties": {
-          "id": 3995,
-          "name": "Accessible Entrance - Campus Center",
-          "mdo_id": "1163",
-          "descShort": "North/main accessible entrance to 1st floor of CPC/003",
-          "geometry_id": "3995",
-          "images": []
-        },
-        "geometry": {
-          "coordinates": [
-            -77.673836,
-            43.08421
-          ],
-          "type": "Point"
-        },
-        "id": "07bca36aacc2b1e3e37a12b7b8119bc3"
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -77.66757,
+          43.08491
+        ],
+        "type": "Point"
       },
-      {
-        "type": "Feature",
-        "properties": {
-          "id": 4135,
-          "name": "Accessible Entrance - Gosnell Hall",
-          "mdo_id": "1206",
-          "descShort": "West door to A-level of GOS/008",
-          "geometry_id": "4135",
-          "images": []
-        },
-        "geometry": {
-          "coordinates": [
-            -77.67765,
-            43.083405
-          ],
-          "type": "Point"
-        },
-        "id": "0c7d5e242dcd161af195c557890dbd17"
+      "properties": {
+        "building_name": "Fredericka Douglass Sprague Perry Hall",
+        "id": 10,
+        "room": 981,
+        "status": 0
       },
-      {
-        "type": "Feature",
-        "properties": {
-          "id": 3999,
-          "name": "Accessible Entrance - Interfaith Center",
-          "mdo_id": "1164",
-          "descShort": "North (from Legacy Walk) accessible ramp entrance to SMT/016",
-          "geometry_id": "3999",
-          "images": []
-        },
-        "geometry": {
-          "coordinates": [
-            -77.67355,
-            43.0841
-          ],
-          "type": "Point"
-        },
-        "id": "1aaba0bd5892ac8e8de1e3f380ec1eda"
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -77.67625,
+          43.08387
+        ],
+        "type": "Point"
       },
-      {
-        "type": "Feature",
-        "properties": {
-          "id": 4103,
-          "name": "Accessible Entrance - Slaughter Hall",
-          "mdo_id": "1198",
-          "descShort": "Main door (facing Destler Johnson Quad) to 1st floor SLA/078",
-          "geometry_id": "4103",
-          "images": []
-        },
-        "geometry": {
-          "coordinates": [
-            -77.681725,
-            43.084694
-          ],
-          "type": "Point"
-        },
-        "id": "1dd6da3a913024df5569cf2d28a50bb8"
+      "properties": {
+        "building_name": "Wallace Library",
+        "id": 12,
+        "room": 982,
+        "status": 3
       },
-      {
-        "type": "Feature",
-        "properties": {
-          "id": 4019,
-          "name": "Accessible Entrance - Gannett Hall",
-          "mdo_id": "1170",
-          "descShort": "South/main accessible entrance to 1st floor of GAN/07B",
-          "geometry_id": "4019",
-          "images": []
-        },
-        "geometry": {
-          "coordinates": [
-            -77.67601,
-            43.085003
-          ],
-          "type": "Point"
-        },
-        "id": "234329b375506ba09e885873fb549dd9"
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -77.68008,
+          43.0844
+        ],
+        "type": "Point"
       },
-      {
-        "type": "Feature",
-        "properties": {
-          "id": 4047,
-          "name": "Accessible Entrance - Gleason Hall",
-          "mdo_id": "1180",
-          "descShort": "Northeast (from Infinity Quad) to 1st floor of GLE/009",
-          "geometry_id": "4047",
-          "images": []
-        },
-        "geometry": {
-          "coordinates": [
-            -77.6774,
-            43.084404
-          ],
-          "type": "Point"
-        },
-        "id": "2679226a6da761e8af8cef6043dd9155"
+      "properties": {
+        "building_name": "Golisano Hall",
+        "id": 13,
+        "room": 982,
+        "status": 0
       },
-      {
-        "type": "Feature",
-        "properties": {
-          "id": 4099,
-          "name": "Accessible Entrance - Laboratory for Applied Computing",
-          "mdo_id": "1197",
-          "descShort": "North door (facing Destler Johnson Quad)  to 1st floor LAC/074",
-          "geometry_id": "4099",
-          "images": []
-        },
-        "geometry": {
-          "coordinates": [
-            -77.68099,
-            43.084427
-          ],
-          "type": "Point"
-        },
-        "id": "3897ee46573afa7c29974c5e0e0c6e5a"
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -77.66804,
+          43.08439
+        ],
+        "type": "Point"
       },
-      {
-        "type": "Feature",
-        "properties": {
-          "id": 3983,
-          "name": "Accessible Entrance - Eastman Hall",
-          "mdo_id": "1157",
-          "descShort": "East/main door (from Simone Plaza) to 1st floor of EAS/001",
-          "geometry_id": "3983",
-          "images": []
-        },
-        "geometry": {
-          "coordinates": [
-            -77.674866,
-            43.084385
-          ],
-          "type": "Point"
-        },
-        "id": "3d0fb9b76cef49075941e09cc84c4858"
+      "properties": {
+        "building_name": "Kate Gleason Hall",
+        "id": 14,
+        "room": 980,
+        "status": 0
       },
-      {
-        "type": "Feature",
-        "properties": {
-          "id": 4115,
-          "name": "Accessible Entrance - Sustainability Hall",
-          "mdo_id": "1201",
-          "descShort": "North door (facing T/J Lots) to A-level of SUS/081",
-          "geometry_id": "4115",
-          "images": []
-        },
-        "geometry": {
-          "coordinates": [
-            -77.68155,
-            43.08553
-          ],
-          "type": "Point"
-        },
-        "id": "512ba6be178456c64c33479efb950c7a"
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -77.66804,
+          43.08435
+        ],
+        "type": "Point"
       },
-      {
-        "type": "Feature",
-        "properties": {
-          "id": 4071,
-          "name": "Accessible Entrance - Institute Hall",
-          "mdo_id": "1190",
-          "descShort": "North/main door (from J/F Lot) to INS/073",
-          "geometry_id": "4071",
-          "images": []
-        },
-        "geometry": {
-          "coordinates": [
-            -77.67905,
-            43.08561
-          ],
-          "type": "Point"
-        },
-        "id": "59b99a6618144b0966ab07e673de2672"
+      "properties": {
+        "building_name": "Kate Gleason Hall",
+        "id": 15,
+        "room": 981,
+        "status": 0
       },
-      {
-        "type": "Feature",
-        "properties": {
-          "id": 4059,
-          "name": "Accessible Entrance - Carey Hall",
-          "mdo_id": "1185",
-          "descShort": "North accessible ramp entrance to 2nd floor of HLC/014",
-          "geometry_id": "4059",
-          "images": []
-        },
-        "geometry": {
-          "coordinates": [
-            -77.678604,
-            43.082645
-          ],
-          "type": "Point"
-        },
-        "id": "5c30437f181c390875c2bf28abe8e1b3"
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -77.66795,
+          43.08629
+        ],
+        "type": "Point"
       },
-      {
-        "type": "Feature",
-        "properties": {
-          "id": 4163,
-          "name": "Accessible Entrance - Carey Hall",
-          "mdo_id": "1215",
-          "descShort": "South door access to 1st floor of HLC/14 and COL/018",
-          "geometry_id": "4163",
-          "images": []
-        },
-        "geometry": {
-          "coordinates": [
-            -77.67864,
-            43.08237
-          ],
-          "type": "Point"
-        },
-        "id": "5c593824ff0ae492ae353ead8aec0738"
+      "properties": {
+        "building_name": "Mark Ellingson Hall",
+        "id": 16,
+        "room": 980,
+        "status": 3
       },
-      {
-        "type": "Feature",
-        "properties": {
-          "id": 3991,
-          "name": "Accessible Entrance - Student Alumni Union",
-          "mdo_id": "1162",
-          "descShort": "North ramp/accessible door to 1st floor of SAU/004",
-          "geometry_id": "3991",
-          "images": []
-        },
-        "geometry": {
-          "coordinates": [
-            -77.674095,
-            43.08415
-          ],
-          "type": "Point"
-        },
-        "id": "5e1ac50379b7cf141aefd2c26eababf5"
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -77.66794,
+          43.08626
+        ],
+        "type": "Point"
       },
-      {
-        "type": "Feature",
-        "properties": {
-          "id": 4159,
-          "name": "Accessible Entrance - University Services Center",
-          "mdo_id": "1214",
-          "descShort": "Use upper-level ramp from Global Way/Global Rise to access South door to USC/087",
-          "geometry_id": "4159",
-          "images": []
-        },
-        "geometry": {
-          "coordinates": [
-            -77.6802,
-            43.083103
-          ],
-          "type": "Point"
-        },
-        "id": "5e2939f88c9601588f6750acdd4da588"
+      "properties": {
+        "building_name": "Mark Ellingson Hall",
+        "id": 17,
+        "room": 981,
+        "status": 3
       },
-      {
-        "type": "Feature",
-        "properties": {
-          "id": 4031,
-          "name": "Accessible Entrance - Bausch & Lomb",
-          "mdo_id": "1173",
-          "descShort": "West/main accessible entrance to 1st floor of BLC/077",
-          "geometry_id": "4031",
-          "images": []
-        },
-        "geometry": {
-          "coordinates": [
-            -77.67563,
-            43.08605
-          ],
-          "type": "Point"
-        },
-        "id": "6648a4333822d8606c846e801cad3f54"
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -77.66948,
+          43.08611
+        ],
+        "type": "Point"
       },
-      {
-        "type": "Feature",
-        "properties": {
-          "id": 4055,
-          "name": "Accessible Entrance - University Services Center",
-          "mdo_id": "1184",
-          "descShort": "East ramp/door to 1st floor of USC/087",
-          "geometry_id": "4055",
-          "images": []
-        },
-        "geometry": {
-          "coordinates": [
-            -77.67976,
-            43.083412
-          ],
-          "type": "Point"
-        },
-        "id": "66aa0dad445ae1e7bd58497292707e0e"
+      "properties": {
+        "building_name": "Rosica Hall",
+        "id": 21,
+        "room": 980,
+        "status": 3
       },
-      {
-        "type": "Feature",
-        "properties": {
-          "id": 3975,
-          "name": "Accessible Entrance - Eastman Hall",
-          "mdo_id": "1155",
-          "descShort": "Northwest accessible ramp to door to 2nd floor of EAS/001",
-          "geometry_id": "3975",
-          "images": []
-        },
-        "geometry": {
-          "coordinates": [
-            -77.675385,
-            43.085022
-          ],
-          "type": "Point"
-        },
-        "id": "6adedd09768ec02a2c5f0ea5246138aa"
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -77.67345,
+          43.08395
+        ],
+        "type": "Point"
       },
-      {
-        "type": "Feature",
-        "properties": {
-          "id": 4091,
-          "name": "Accessible Entrance - Engineering Hall",
-          "mdo_id": "1195",
-          "descShort": "North door (facing rear of Institute Hall) to 1st floor of ENG/017",
-          "geometry_id": "4091",
-          "images": []
-        },
-        "geometry": {
-          "coordinates": [
-            -77.67915,
-            43.084816
-          ],
-          "type": "Point"
-        },
-        "id": "75821fc9d62163fb31cb3a8b1d27cefc"
+      "properties": {
+        "building_name": "Schmitt Interfaith Center",
+        "id": 22,
+        "room": 980,
+        "status": 3
       },
-      {
-        "type": "Feature",
-        "properties": {
-          "id": 4083,
-          "name": "Accessible Entrance - University Gallery",
-          "mdo_id": "1193",
-          "descShort": "West accessible entrance to UNI/07A and 2nd floor BOO/07A",
-          "geometry_id": "4083",
-          "images": []
-        },
-        "geometry": {
-          "coordinates": [
-            -77.6775,
-            43.085094
-          ],
-          "type": "Point"
-        },
-        "id": "7be889a7285c265e3b16dcb84acede73"
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -77.67734,
+          43.08367
+        ],
+        "type": "Point"
       },
-      {
-        "type": "Feature",
-        "properties": {
-          "id": 4127,
-          "name": "Accessible Entrance - Gleason Hall",
-          "mdo_id": "1204",
-          "descShort": "North (from Unity Quad) to 2nd floor of GLE/009",
-          "geometry_id": "4127",
-          "images": []
-        },
-        "geometry": {
-          "coordinates": [
-            -77.67818,
-            43.08488
-          ],
-          "type": "Point"
-        },
-        "id": "82974e90bedfbbdd782b282bef5fc788"
+      "properties": {
+        "building_name": "Thomas Gosnell Hall",
+        "id": 23,
+        "room": 980,
+        "status": 3
       },
-      {
-        "type": "Feature",
-        "properties": {
-          "id": 3979,
-          "name": "Accessible Entrance - Eastman Hall",
-          "mdo_id": "1156",
-          "descShort": "Southwest (near Kodak Quad stairway) door to 2nd floor of EAS/001",
-          "geometry_id": "3979",
-          "images": []
-        },
-        "geometry": {
-          "coordinates": [
-            -77.67539,
-            43.08438
-          ],
-          "type": "Point"
-        },
-        "id": "870213633279c5981be7e97473932fa8"
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -77.67593,
+          43.08402
+        ],
+        "type": "Point"
       },
-      {
-        "type": "Feature",
-        "properties": {
-          "id": 4095,
-          "name": "Accessible Entrance - Golisano Hall",
-          "mdo_id": "1196",
-          "descShort": "North/main door to 1st floor GOL/070",
-          "geometry_id": "4095",
-          "images": []
-        },
-        "geometry": {
-          "coordinates": [
-            -77.67995,
-            43.084667
-          ],
-          "type": "Point"
-        },
-        "id": "895bcb4dba5a780ccfb6e978a3ea9ba6"
+      "properties": {
+        "building_name": "Student Hall for Exploration and Development",
+        "id": 24,
+        "room": 982,
+        "status": 3
       },
-      {
-        "type": "Feature",
-        "properties": {
-          "id": 4075,
-          "name": "Accessible Entrance - Institute Hall",
-          "mdo_id": "1191",
-          "descShort": "South/rear door (facing Engineering Hall) to INS/073",
-          "geometry_id": "4075",
-          "images": []
-        },
-        "geometry": {
-          "coordinates": [
-            -77.679054,
-            43.085087
-          ],
-          "type": "Point"
-        },
-        "id": "8c2dcfc0db4ce4a74ec78a0836ca42f9"
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -77.67587,
+          43.08402
+        ],
+        "type": "Point"
       },
-      {
-        "type": "Feature",
-        "properties": {
-          "id": 4039,
-          "name": "Accessible Entrance - Wallace Center",
-          "mdo_id": "1177",
-          "descShort": "North/main door to 1st floor of WAL/005",
-          "geometry_id": "4039",
-          "images": []
-        },
-        "geometry": {
-          "coordinates": [
-            -77.676315,
-            43.08414
-          ],
-          "type": "Point"
-        },
-        "id": "8da6d25b3c8118aa9f8ae7d585da815a"
+      "properties": {
+        "building_name": "Student Hall for Exploration and Development",
+        "id": 25,
+        "room": 984,
+        "status": 3
       },
-      {
-        "type": "Feature",
-        "properties": {
-          "id": 4119,
-          "name": "Accessible Entrance - Engineering Technology Hall",
-          "mdo_id": "1202",
-          "descShort": "East accessible entrance to 1st floor of ENT/082",
-          "geometry_id": "4119",
-          "images": []
-        },
-        "geometry": {
-          "coordinates": [
-            -77.67998,
-            43.085033
-          ],
-          "type": "Point"
-        },
-        "id": "973e8f866d64b784c333e370e863c45d"
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -77.66879,
+          43.08674
+        ],
+        "type": "Point"
       },
-      {
-        "type": "Feature",
-        "properties": {
-          "id": 4107,
-          "name": "Accessible Entrance - Sustainability Hall",
-          "mdo_id": "1199",
-          "descShort": "West door (access from Destler Johnson Quad) to 1st floor SUS/081",
-          "geometry_id": "4107",
-          "images": []
-        },
-        "geometry": {
-          "coordinates": [
-            -77.68175,
-            43.08525
-          ],
-          "type": "Point"
-        },
-        "id": "9afadb607e92030cb561bab56ffb315a"
+      "properties": {
+        "building_name": "Student Development Center",
+        "id": 26,
+        "room": 980,
+        "status": 0
       },
-      {
-        "type": "Feature",
-        "properties": {
-          "id": 3987,
-          "name": "Accessible Entrance - Monroe Hall",
-          "mdo_id": "1159",
-          "descShort": "West accessible ramp entrance to 1st floor of MON/015",
-          "geometry_id": "3987",
-          "images": []
-        },
-        "geometry": {
-          "coordinates": [
-            -77.67514,
-            43.0842
-          ],
-          "type": "Point"
-        },
-        "id": "9b057d2348b65b5c33a870c26dd64289"
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -77.66717,
+          43.08552
+        ],
+        "type": "Point"
       },
-      {
-        "type": "Feature",
-        "properties": {
-          "id": 4167,
-          "name": "Accessible Entrance - Carey Hall",
-          "mdo_id": "1216",
-          "descShort": "West ramp/door (facing Crossroads) to HLC/014",
-          "geometry_id": "4167",
-          "images": ""
-        },
-        "geometry": {
-          "coordinates": [
-            -77.67912,
-            43.082268
-          ],
-          "type": "Point"
-        },
-        "id": "a29c902c671e279d413971d99d47ef72"
+      "properties": {
+        "building_name": "Sol Heumann Hall",
+        "id": 27,
+        "room": 980,
+        "status": 0
       },
-      {
-        "type": "Feature",
-        "properties": {
-          "id": 4011,
-          "name": "Accessible Entrance - Clark Gym",
-          "mdo_id": "1168",
-          "descShort": "South accessible entrance to CLK/003",
-          "geometry_id": "4011",
-          "images": []
-        },
-        "geometry": {
-          "coordinates": [
-            -77.673836,
-            43.08434
-          ],
-          "type": "Point"
-        },
-        "id": "a3f2569f0f3c8260dcb849e50b92ee08"
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -77.66717,
+          43.08545
+        ],
+        "type": "Point"
       },
-      {
-        "type": "Feature",
-        "properties": {
-          "id": 4051,
-          "name": "Accessible Entrance - Gleason Hall",
-          "mdo_id": "1182",
-          "descShort": "South door to 1st floor of GLE/009",
-          "geometry_id": "4051",
-          "images": []
-        },
-        "geometry": {
-          "coordinates": [
-            -77.678154,
-            43.084103
-          ],
-          "type": "Point"
-        },
-        "id": "a7f33a7bee26c841b9660b4ec8e76e9b"
+      "properties": {
+        "building_name": "Sol Heumann Hall",
+        "id": 28,
+        "room": 981,
+        "status": 3
       },
-      {
-        "type": "Feature",
-        "properties": {
-          "id": 4131,
-          "name": "Accessible Entrance - Gosnell Hall",
-          "mdo_id": "1205",
-          "descShort": "East (near Gleason Circle) door to A-level of GOS/008",
-          "geometry_id": "4131",
-          "images": []
-        },
-        "geometry": {
-          "coordinates": [
-            -77.67686,
-            43.083546
-          ],
-          "type": "Point"
-        },
-        "id": "abf6bd4ca9b11505be398bb659788e07"
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -77.67406,
+          43.08388
+        ],
+        "type": "Point"
       },
-      {
-        "type": "Feature",
-        "properties": {
-          "id": 4087,
-          "name": "Accessible Entrance - Sands Family Studios",
-          "mdo_id": "1194",
-          "descShort": "West accessible entrance to SAN/07A",
-          "geometry_id": "4087",
-          "images": []
-        },
-        "geometry": {
-          "coordinates": [
-            -77.67782,
-            43.085403
-          ],
-          "type": "Point"
-        },
-        "id": "afec9b1830f2fff5008154708f0906d6"
+      "properties": {
+        "building_name": "Student Alumni Union",
+        "id": 29,
+        "room": 915,
+        "status": 0
       },
-      {
-        "type": "Feature",
-        "properties": {
-          "id": 4063,
-          "name": "Accessible Entrance - Crossroads",
-          "mdo_id": "1186",
-          "descShort": "East accessible entrance to CRS/089",
-          "geometry_id": "4063",
-          "images": []
-        },
-        "geometry": {
-          "coordinates": [
-            -77.67962,
-            43.082653
-          ],
-          "type": "Point"
-        },
-        "id": "b93b51b03d09dd7ab0968899aa79ba40"
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -77.66858,
+          43.08742
+        ],
+        "type": "Point"
       },
-      {
-        "type": "Feature",
-        "properties": {
-          "id": 4155,
-          "name": "Accessible Entrance - GV Market",
-          "mdo_id": "1213",
-          "descShort": "South/main door to The Market at Global Village",
-          "geometry_id": "4155",
-          "images": []
-        },
-        "geometry": {
-          "coordinates": [
-            -77.68104,
-            43.083096
-          ],
-          "type": "Point"
-        },
-        "id": "bbce145d14f7c3b6abbebe8b7c2de389"
+      "properties": {
+        "building_name": "Lyndon Baines Johnson Hall",
+        "id": 30,
+        "room": 980,
+        "status": 3
       },
-      {
-        "type": "Feature",
-        "properties": {
-          "id": 4007,
-          "name": "Accessible Entrance - Polisseni Center",
-          "mdo_id": "1167",
-          "descShort": "West accessible entrance to POL/022",
-          "geometry_id": "4007",
-          "images": []
-        },
-        "geometry": {
-          "coordinates": [
-            -77.67511,
-            43.083004
-          ],
-          "type": "Point"
-        },
-        "id": "bc5bde4c96d5d835053d5000a145fc59"
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -77.67627,
+          43.08571
+        ],
+        "type": "Point"
       },
-      {
-        "type": "Feature",
-        "properties": {
-          "id": 4027,
-          "name": "Accessible Entrance - Gannett Hall",
-          "mdo_id": "1172",
-          "descShort": "West (under breezeway) door to 2nd floor of GAN/07B",
-          "geometry_id": "4027",
-          "images": []
-        },
-        "geometry": {
-          "coordinates": [
-            -77.67676,
-            43.08523
-          ],
-          "type": "Point"
-        },
-        "id": "c32d9f8f9802a0f0f830d1fe20fe515a"
+      "properties": {
+        "building_name": "MAGIC Spell Studios",
+        "id": 31,
+        "room": 980,
+        "status": 3
       },
-      {
-        "type": "Feature",
-        "properties": {
-          "id": 4111,
-          "name": "Accessible Entrance - Sustainability Hall",
-          "mdo_id": "1200",
-          "descShort": "East accessible entrance to 1st floor SUS/081",
-          "geometry_id": "4111",
-          "images": []
-        },
-        "geometry": {
-          "coordinates": [
-            -77.680824,
-            43.085327
-          ],
-          "type": "Point"
-        },
-        "id": "c51e590513a0a0d51d377222f1a75a5e"
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -77.67383,
+          43.08399
+        ],
+        "type": "Point"
       },
-      {
-        "type": "Feature",
-        "properties": {
-          "id": 4067,
-          "name": "Accessible Entrance - Crossroads",
-          "mdo_id": "1188",
-          "descShort": "West accessible entrance to CRS/089",
-          "geometry_id": "4067",
-          "images": []
-        },
-        "geometry": {
-          "coordinates": [
-            -77.68033,
-            43.082634
-          ],
-          "type": "Point"
-        },
-        "id": "ce18aad78e1c5b03ec05ca63f24b52f8"
+      "properties": {
+        "building_name": "Campus Center",
+        "id": 34,
+        "room": 951,
+        "status": 0
       },
-      {
-        "type": "Feature",
-        "properties": {
-          "id": 4139,
-          "name": "Accessible Entrance - Gosnell Hall",
-          "mdo_id": "1208",
-          "descShort": "North (facing Infinity Quad) door to 1st floor of GOS/008",
-          "geometry_id": "4139",
-          "images": []
-        },
-        "geometry": {
-          "coordinates": [
-            -77.67744,
-            43.08381
-          ],
-          "type": "Point"
-        },
-        "id": "d0562899710c2075b9efa3c7012390e7"
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -77.67501,
+          43.08417
+        ],
+        "type": "Point"
       },
-      {
-        "type": "Feature",
-        "properties": {
-          "id": 4079,
-          "name": "Accessible Entrance - CBT",
-          "mdo_id": "1192",
-          "descShort": "South accessible entrance to CBT/075",
-          "geometry_id": "4079",
-          "images": []
-        },
-        "geometry": {
-          "coordinates": [
-            -77.6788,
-            43.08552
-          ],
-          "type": "Point"
-        },
-        "id": "de0891193aa5c6fb80f906ffc231bce2"
+      "properties": {
+        "building_name": "Monroe Hall",
+        "id": 35,
+        "room": 901,
+        "status": 3
       },
-      {
-        "type": "Feature",
-        "properties": {
-          "id": 4123,
-          "name": "Accessible Entrance - Engineering Technology Hall",
-          "mdo_id": "1203",
-          "descShort": "West accessible entrance to 1st floor of ENT/082",
-          "geometry_id": "4123",
-          "images": []
-        },
-        "geometry": {
-          "coordinates": [
-            -77.680626,
-            43.085026
-          ],
-          "type": "Point"
-        },
-        "id": "e3fe0b34af80d21d552c1f0801ce8e57"
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -77.67394,
+          43.08401
+        ],
+        "type": "Point"
       },
-      {
-        "type": "Feature",
-        "properties": {
-          "id": 4015,
-          "name": "Accessible Entrance - Clark/Ritter",
-          "mdo_id": "1169",
-          "descShort": "West accessible entrance to CLK/003 and RIA/002",
-          "geometry_id": "4015",
-          "images": []
-        },
-        "geometry": {
-          "coordinates": [
-            -77.67411,
-            43.084934
-          ],
-          "type": "Point"
-        },
-        "id": "e67b75872943d6ab46d3e736fab9c5e6"
+      "properties": {
+        "building_name": "Campus Center",
+        "id": 36,
+        "room": 951,
+        "status": 0
       },
-      {
-        "type": "Feature",
-        "properties": {
-          "id": 4143,
-          "name": "Accessible Entrance - Carlson Center",
-          "mdo_id": "1210",
-          "descShort": "East/main door to 1st floor of CAR/076",
-          "geometry_id": "4143",
-          "images": []
-        },
-        "geometry": {
-          "coordinates": [
-            -77.67731,
-            43.0859
-          ],
-          "type": "Point"
-        },
-        "id": "f2a3fdd5259f7301289b09896c38ba9f"
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -77.66917,
+          43.08647
+        ],
+        "type": "Point"
       },
-      {
-        "type": "Feature",
-        "properties": {
-          "id": 4023,
-          "name": "Accessible Entrance - Booth Hall",
-          "mdo_id": "1171",
-          "descShort": "East (under breezeway) door to 2nd floor of BOO/07A",
-          "geometry_id": "4023",
-          "images": []
-        },
-        "geometry": {
-          "coordinates": [
-            -77.67685,
-            43.08512
-          ],
-          "type": "Point"
-        },
-        "id": "f501adbf9fb601503ca33d007782ab2c"
+      "properties": {
+        "building_name": "Student Development Center",
+        "id": 38,
+        "room": 981,
+        "status": 0
       },
-      {
-        "type": "Feature",
-        "properties": {
-          "id": 4003,
-          "name": "Accessible Entrance - Polisseni Center",
-          "mdo_id": "1166",
-          "descShort": "East accessible entrance to POL/022",
-          "geometry_id": "4003",
-          "images": []
-        },
-        "geometry": {
-          "coordinates": [
-            -77.67426,
-            43.083115
-          ],
-          "type": "Point"
-        },
-        "id": "f5357568697b0e3ef39eb54878838e81"
-      }
-    ],
-    "type": "FeatureCollection"
-  }
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -77.66892,
+          43.08376
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "building_name": "Grace Watson Hall",
+        "id": 39,
+        "room": 989,
+        "status": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -77.66829,
+          43.08681
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "building_name": "Lyndon Baines Johnson Hall",
+        "id": 40,
+        "room": 965,
+        "status": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -77.6752,
+          43.08409
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "building_name": "Monroe Hall",
+        "id": 41,
+        "room": 981,
+        "status": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -77.6755,
+          43.08608
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "building_name": "Bausch & Lomb Center",
+        "id": 42,
+        "room": 980,
+        "status": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -77.68125,
+          43.08296
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "building_name": "Global Village Plaza",
+        "id": 43,
+        "room": 981,
+        "status": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -77.68129,
+          43.08295
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "building_name": "Global Village Plaza",
+        "id": 44,
+        "room": 982,
+        "status": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -77.67497,
+          43.08296
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "building_name": "Gene Polisseni Center",
+        "id": 45,
+        "room": 980,
+        "status": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -77.67424,
+          43.08241
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "building_name": "Gene Polisseni Center",
+        "id": 46,
+        "room": 983,
+        "status": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -77.67533,
+          43.08406
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "building_name": "Student Hall for Exploration and Development",
+        "id": 47,
+        "room": 981,
+        "status": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -77.67903,
+          43.08551
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "building_name": "Institute Hall",
+        "id": 48,
+        "room": 980,
+        "status": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -77.67911,
+          43.08521
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "building_name": "Institute Hall",
+        "id": 49,
+        "room": 982,
+        "status": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -77.67827,
+          43.08566
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "building_name": "Center for Bioscience Education & Technology",
+        "id": 50,
+        "room": 980,
+        "status": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -77.67772,
+          43.0858
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "building_name": "Chester F. Carlson Center for Imaging Science",
+        "id": 51,
+        "room": 980,
+        "status": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -77.6721,
+          43.08467
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "building_name": "Hale-Andrews Student Life Center",
+        "id": 52,
+        "room": 982,
+        "status": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -77.67713,
+          43.08527
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "building_name": "James E. Booth Hall",
+        "id": 53,
+        "room": 980,
+        "status": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -77.67761,
+          43.0854
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "building_name": "James E. Booth Hall",
+        "id": 54,
+        "room": 984,
+        "status": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -77.67766,
+          43.0844
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "building_name": "James E. Gleason Hall",
+        "id": 55,
+        "room": 980,
+        "status": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -77.67825,
+          43.08486
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "building_name": "James E. Gleason Hall",
+        "id": 56,
+        "room": 987,
+        "status": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -77.67829,
+          43.08412
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "building_name": "James E. Gleason Hall",
+        "id": 57,
+        "room": 984,
+        "status": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -77.67511,
+          43.08441
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "building_name": "George Eastman Hall",
+        "id": 4,
+        "room": 981,
+        "status": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -77.67512,
+          43.08441
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "building_name": "George Eastman Hall",
+        "id": 3,
+        "room": 980,
+        "status": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -77.68003,
+          43.08342
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "building_name": "Student Innovation Hall",
+        "id": 58,
+        "room": 980,
+        "status": 0
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -77.6802,
+          43.08379
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "building_name": "Cybersecurity Hall",
+        "id": 59,
+        "room": 980,
+        "status": 0
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}
